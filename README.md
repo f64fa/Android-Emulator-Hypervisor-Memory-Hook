@@ -2,10 +2,11 @@
 
 ![Repository Banner](assets/banner.png)
 
-[![Author](https://img.shields.io/badge/Author-Falcon--x64-blueviolet.svg?style=for-the-badge)](#)
+[![Website](https://img.shields.io/badge/Website-falconx64.com-blueviolet.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://falconx64.com)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/HnBRncZScM)
+[![Author](https://img.shields.io/badge/Author-Falcon--x64-blue.svg?style=for-the-badge)](#)
 [![Language](https://img.shields.io/badge/Language-C%2B%2B17-blue.svg?style=for-the-badge)](https://en.cppreference.com/w/cpp/17)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20x64-0078D6.svg?style=for-the-badge)](https://microsoft.com)
-[![Architecture](https://img.shields.io/badge/Target-BlueStacks%20%2F%20MSI%20VMM-orange.svg?style=for-the-badge)](https://bluestacks.com)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 An enterprise-grade, high-performance C++ hypervisor memory access engine and inline hooking framework developed by **Falcon-x64** for x64 Android Emulators (BlueStacks / MSI App Player). 
@@ -83,9 +84,9 @@ simple_hook/
 
 ### Compilation Steps
 1. Open PowerShell or Command Prompt.
-2. Navigate to the repository root:
+2. Navigate to the project folder:
    ```cmd
-   cd "e:\cpp projects\BstkDD2_Dll\bstkdd2_build\simple_hook"
+   cd Android-Emulator-Hypervisor-Memory-Hook
    ```
 3. Run the automated build script:
    ```cmd
@@ -128,7 +129,14 @@ This project is created strictly for **educational, reverse-engineering research
 
 ---
 
-## 📄 Author & License
+## 🌐 Contact & Community
 
-Developed by **Falcon-x64**.  
+- **Website**: [falconx64.com](https://falconx64.com)
+- **Discord Community**: [Join Discord](https://discord.gg/HnBRncZScM)
+- **Developer**: Falcon-x64 / f64fa
+
+---
+
+## 📄 License
+
 Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more details.
