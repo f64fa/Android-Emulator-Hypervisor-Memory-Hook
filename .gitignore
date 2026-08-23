@@ -1,0 +1,15 @@
+# Build Artifacts
+*.obj
+*.dll
+*.exe
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.suo
+*.user
+
+# IDE Directories
+.vs/
+.idea/
+.vscode/

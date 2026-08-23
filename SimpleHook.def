@@ -1,0 +1,3 @@
+LIBRARY SimpleHook
+EXPORTS
+    VBoxDevicesRegister @1
